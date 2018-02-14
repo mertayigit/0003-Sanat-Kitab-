@@ -13,6 +13,8 @@
 		0256E38F2034964E0059399F /* Sanat_Kitab_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0256E38D2034964E0059399F /* Sanat_Kitab_.xcdatamodeld */; };
 		0256E3912034964E0059399F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0256E3902034964E0059399F /* Assets.xcassets */; };
 		0256E3942034964E0059399F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0256E3922034964E0059399F /* LaunchScreen.storyboard */; };
+		0256E39C203497D50059399F /* DetayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0256E39B203497D50059399F /* DetayViewController.swift */; };
+		0256E39E20349B8B0059399F /* plus kopyası.png in Resources */ = {isa = PBXBuildFile; fileRef = 0256E39D20349B8A0059399F /* plus kopyası.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		0256E3902034964E0059399F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0256E3932034964E0059399F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0256E3952034964E0059399F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0256E39B203497D50059399F /* DetayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetayViewController.swift; sourceTree = "<group>"; };
+		0256E39D20349B8A0059399F /* plus kopyası.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plus kopyası.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				0256E3862034964E0059399F /* AppDelegate.swift */,
 				0256E3882034964E0059399F /* ViewController.swift */,
+				0256E39B203497D50059399F /* DetayViewController.swift */,
+				0256E39D20349B8A0059399F /* plus kopyası.png */,
 				0256E38A2034964E0059399F /* Main.storyboard */,
 				0256E3902034964E0059399F /* Assets.xcassets */,
 				0256E3922034964E0059399F /* LaunchScreen.storyboard */,
@@ -129,6 +135,7 @@
 				0256E3942034964E0059399F /* LaunchScreen.storyboard in Resources */,
 				0256E3912034964E0059399F /* Assets.xcassets in Resources */,
 				0256E38C2034964E0059399F /* Main.storyboard in Resources */,
+				0256E39E20349B8B0059399F /* plus kopyası.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 			files = (
 				0256E38F2034964E0059399F /* Sanat_Kitab_.xcdatamodeld in Sources */,
 				0256E3892034964E0059399F /* ViewController.swift in Sources */,
+				0256E39C203497D50059399F /* DetayViewController.swift in Sources */,
 				0256E3872034964E0059399F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
